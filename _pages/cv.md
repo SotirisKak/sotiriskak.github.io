@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV [DownloadCV here](http://sotiriskak.github.io/files/SK_Resume.pdf.pdf)
+Curriculum Vitae [PDF].(http://sotiriskak.github.io/files/SK_Resume.pdf)
