@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae [PDF].(http://sotiriskak.github.io/files/SK_Resume.pdf)
+Curriculum Vitae (10/2022). [PDF](http://sotiriskak.github.io/files/SK_Resume.pdf)
