@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sotirios Kakaletsis"
+title                    : "Sotiris Kakaletsis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sotiris Kakaletsis"
+description              : &description "PhD Candidate at UT Austin"
 url                      : https://sotiriskak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sotiriskak/sotiriskak.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sotirios Kakaletsis"
+  name             : "Sotiris Kakaletsis"
   avatar           : "bio-photo.png"
   bio              : "PhD Candidate, Engineering Mechanics, The University of Texas at Austin."
   location         : "Austin, TX"
