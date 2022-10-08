@@ -4,7 +4,7 @@ simple shear."
 collection: publications
 permalink: /publication/Sugerman2020
 excerpt: ''
-date: 2020
+date: '2020'
 venue: 'Journal of the Mechanical Behavior of Biomedical
 Materials'
 paperurl: 'https://doi.org/10.1016/j.jmbbm.2020.104216'
