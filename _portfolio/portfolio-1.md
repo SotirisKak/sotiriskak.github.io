@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dielectric elastomer bending actuator."
+excerpt: "FE Model of a 3D dielectric elastomer bending actuator.<br/><img src='/images/P1_DielectricElastomer.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, I implement the simplest version of a multi-layered actuator, with only one layer of dielectric elastomer (active region) covered by a stiffer thin layer (passive region).
+The actuator is modeled in ABAQUS by implementing a UMAT subroutine. Also, included a (short) sensitivity analysis by examining the effect of stiffness and thickness variations of the thin layer to the overall mechanical response of the actuator. Finally, I examine and model the case of distributed stiffeners along the free surface of the elastomer.
+
+This project was part of the graduate class EM397: Mechanics of Soft Material (Fall 2019). [PDF](http://sotiriskak.github.io/files/DE_FEModel.pdf)
