@@ -13,7 +13,7 @@ MK. <i>A whole blood clot thrombus mimic: Constitutive behavior under
 simple shear.</i> Journal of the Mechanical Behavior of Biomedical
 Materials, 2021.'
 ---
-Mechanical testing and hyperelastic modeling of whole blood clot thrombus mimic.
-<img src='/images/Sugerman2020.png'>
+Mechanical testing and hyperelastic modeling of whole blood clot thrombus mimic.[[link]](https://doi.org/10.1016/j.jmbbm.2020.104216)
+<img src='/images/J1_Ella2020.png'>
 
-[link](https://doi.org/10.1016/j.jmbbm.2020.104216)
+
