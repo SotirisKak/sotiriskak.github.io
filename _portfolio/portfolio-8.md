@@ -1,6 +1,6 @@
 ---
 title: "Abaqus UEL for beam-to-solid coupling."
-excerpt: "Development of Abaqus User Element to embed spatial Timoshenko beams to hyperelastic solid matrix.<br/><img src='/images/P3_AbaqusUEL.png'>"
+excerpt: "Development of an Abaqus User Element to embed spatial Timoshenko beams to hyperelastic solid matrices.<br/><img src='/images/P3_AbaqusUEL.png'>"
 collection: portfolio
 ---
 
