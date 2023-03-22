@@ -14,4 +14,5 @@ Prior to joining UT Austin, I received a diploma in mechanical engineering from 
 
 Updates
 -------
-- Will be presenting latest work on embedded, discrete fiber networks at the Society of Engineering Science Annual Technical Meeting **(SES2022)**, College Station, TX. (Monday 10/17/22, *@8.7 Mechanics of Complex Networks in Materials and Biology*, Session: 1A, Room: Hotel-Ross I).
+- I will spend the summer 2023 as a Computational Structural Mechanics intern at [Ansys.](https://www.ansys.com/)
+- Will be presenting latest work on embedded, discrete fiber networks at the Society of Engineering Science Annual Technical Meeting **(SES2022)**, College Station, TX. (Monday 10/17/22, *@8.7 Mechanics of Complex Networks in Materials and Biology*, Session: 1A).
