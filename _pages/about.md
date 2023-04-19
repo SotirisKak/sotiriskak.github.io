@@ -14,6 +14,8 @@ Prior to joining UT Austin, I received a diploma in mechanical engineering from 
 
 Updates
 -------
-- Abstract *Microstructure-based Estimation of the Effective Stiffness of Crosslinked, Embedded Fiber Networks* has been accepted for a podium presentation at the 2023 Summer Biomechanics, Bioengineering, and Biotransport Conference **(SB3C2023)**.
+- Abstract on *Microstructure-based Estimation of the Effective Stiffness of Crosslinked, Embedded Fiber Networks* has been accepted for a podium presentation at the [**(SB3C2023)**](https://sb3c.org).
+
 - I will spend the Summer 2023 as a Computational Structural Mechanics intern at [Ansys](https://www.ansys.com/).
+
 - Will be presenting latest work on embedded, discrete fiber networks at the Society of Engineering Science Annual Technical Meeting **(SES2022)**, College Station, TX. (Monday 10/17/22, *@8.7 Mechanics of Complex Networks in Materials and Biology*, Session: 1A).
