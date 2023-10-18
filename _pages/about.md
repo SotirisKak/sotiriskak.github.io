@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the Engineering Mechanics program, at the University of Texas at Austin. Since August 2018, I've been working with Dr. Manuel Rausch at the [Soft Tissue Biomechanics Lab](http://www.manuelrausch.com). My research interests include **cardiovascular mechanics, nonlinear solid mechanics, computational modeling and machine learning**.
+I'm a PhD candidate at the Engineering Mechanics program, at the University of Texas at Austin. Since August 2018, I've been working with Dr. Manuel Rausch at the [Soft Tissue Biomechanics Lab](http://www.manuelrausch.com). My research interests include **biomechanics, nonlinear solid mechanics, computational modeling with just a touch of machine learning**.
 
 Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from Aristotle University of Thessaloniki, Greece. After my graduation in 2016, I worked as a Research Assistant at the [Machine Dynamics Lab,](https://www.meng.auth.gr/en/lab/1-1-machine-dynamics-laboratory-mdl/) under the supervision of prof. Sotirios Natsiavas, conducting modeling and simulations on **rigid and flexible multibody dynamics.**
 
 Updates
 -------
 ### 2023
+- *10/2023* - Two latest papers were accepted and are available online, on [pulmonary hypertension-induced stiffening](https://doi.org/10.1016/j.actbio.2023.09.043) and on [the mechanics of embedded fiber networks.](https://doi.org/10.1016/j.jmps.2023.105456)
+
+- *09/2023* - Internsip project with Ansys featured on the [developer's portal](https://developer.ansys.com/blog/biomedical-catheter-design-analysis).
+  
 - *08/2023* - I'll return at [Ansys](https://www.ansys.com/) for a second rotation, as a Computational Mechanics intern, during Fall 2023.
  
 - *07/2023* - Our study on the mechanics of embedded, discrete fiber networks is now available as a [preprint](https://engrxiv.org/preprint/view/3112/5680).
