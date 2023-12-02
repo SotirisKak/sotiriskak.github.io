@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sotirios Kakaletsis"
 title_separator          : "-"
 name                     : &name "Sotiris Kakaletsis"
-description              : &description "PhD Candidate at UT Austin"
+description              : &description "PhD, Engineering Mechanics, UT Austin"
 url                      : https://sotiriskak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sotiriskak/sotiriskak.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sotiris Kakaletsis"
   avatar           : "bio-photo.png"
-  bio              : "PhD Candidate, Engineering Mechanics, The University of Texas at Austin."
+  bio              : "PhD, Engineering Mechanics, The University of Texas at Austin."
   location         : "Austin, TX"
   employer         :
   pubmed           : 

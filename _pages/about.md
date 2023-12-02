@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the Engineering Mechanics program, at the University of Texas at Austin. Since August 2018, I've been working with Dr. Manuel Rausch at the [Soft Tissue Biomechanics Lab](http://www.manuelrausch.com). My research interests include **biomechanics, nonlinear solid mechanics, computational modeling** and just a little of **machine learning**.
+In December 2023, I completed my doctoral studies, working with Dr. Manuel Rausch at the [Soft Tissue Biomechanics Lab](http://www.manuelrausch.com) at the University of Texas at Austin, since August 2018. My research focused on **biomechanics, nonlinear solid mechanics, computational modeling** and just a little of **machine learning**.
 
 Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from Aristotle University of Thessaloniki, Greece. After my graduation in 2016, I worked as a Research Assistant at the [Machine Dynamics Lab,](https://lmd.meng.auth.gr/wordpress_w/) under the supervision of prof. Sotirios Natsiavas, conducting modeling and simulations on **rigid and flexible multibody dynamics.**
 
