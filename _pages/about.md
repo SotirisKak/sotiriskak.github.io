@@ -15,6 +15,8 @@ Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from 
 Updates
 -------
 ### 2023
+- *11/2023* - [Dissertation defense](https://www.linkedin.com/posts/manuel-rausch-phd-a567a845_great-news-two-of-my-labs-phd-students-activity-7135632926406311936-muqs?utm_source=share&utm_medium=member_desktop), titled *"Histomechanical Characterization and Microstructure-Based Modeling of Right Ventricular Myocardium"*.
+
 - *10/2023* - Two latest papers were accepted and are available online, on [pulmonary hypertension-induced stiffening](https://doi.org/10.1016/j.actbio.2023.09.043) and on [the mechanics of embedded fiber networks.](https://doi.org/10.1016/j.jmps.2023.105456)
 
 - *09/2023* - Internsip project with Ansys featured on the [developer's portal](https://developer.ansys.com/blog/biomedical-catheter-design-analysis).
@@ -25,7 +27,7 @@ Updates
   
 - *04/2023* - A preprint of our work on pulmonary hypertension-induced right ventricular stiffening is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.03.535491v1.full.pdf).
 
-- *04/2023* - Abstract on *"Microstructure-based Estimation of the Effective Stiffness of Crosslinked, Embedded Fiber Networks"* has been accepted for a podium presentation at [**SB3C2023**](https://sb3c.org).
+- *04/2023* - Abstract on *"Microstructure-based Estimation of the Effective Stiffness of Crosslinked, Embedded Fiber Networks"* has been accepted for a podium presentation at [SB3C2023](https://sb3c.org).
 
 - *02/2023* - I will spend the Summer 2023 as a Computational Structural Mechanics intern at [Ansys](https://www.ansys.com/).
 
