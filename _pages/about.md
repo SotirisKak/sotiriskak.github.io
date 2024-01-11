@@ -24,7 +24,7 @@ Updates
 
 - *10/2023* - Two latest papers were accepted and are available online, on [pulmonary hypertension-induced stiffening](https://doi.org/10.1016/j.actbio.2023.09.043) and on [the mechanics of embedded fiber networks.](https://doi.org/10.1016/j.jmps.2023.105456)
 
-- *09/2023* - Internsip project with Ansys featured on the [developer's portal](https://developer.ansys.com/blog/biomedical-catheter-design-analysis).
+- *09/2023* - Internship project with Ansys featured on the [developer's portal](https://developer.ansys.com/blog/biomedical-catheter-design-analysis).
   
 - *08/2023* - I'll return at [Ansys](https://www.ansys.com/) for a second rotation, as a Computational Mechanics intern, during Fall 2023.
  
