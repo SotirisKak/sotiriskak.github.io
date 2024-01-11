@@ -15,9 +15,11 @@ Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from 
 Updates
 -------
 ### 2024
-- *01/2024* - I'll be joining [Altair](https://altair.com) as a Software Development Engineer at Thessaloniki, Greece.
+- *01/2024* - I'll be joining [Altair](https://altair.com) as a full-time Software Development Engineer at Thessaloniki, Greece.
   
 ### 2023
+- *12/2023* - Officially graduated from The University of Texas at Austin with a MS/PhD in Engineering Mechanics
+  
 - *11/2023* - [Dissertation defense](https://www.linkedin.com/posts/manuel-rausch-phd-a567a845_great-news-two-of-my-labs-phd-students-activity-7135632926406311936-muqs?utm_source=share&utm_medium=member_desktop), titled *"Histomechanical Characterization and Microstructure-Based Modeling of Right Ventricular Myocardium"*.
 
 - *10/2023* - Two latest papers were accepted and are available online, on [pulmonary hypertension-induced stiffening](https://doi.org/10.1016/j.actbio.2023.09.043) and on [the mechanics of embedded fiber networks.](https://doi.org/10.1016/j.jmps.2023.105456)
