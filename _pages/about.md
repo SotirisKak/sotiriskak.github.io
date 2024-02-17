@@ -15,7 +15,7 @@ Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from 
 Updates
 -------
 ### 2024
-- *01/2024* - I'll be joining [Altair](https://altair.com) as a full-time Software Development Engineer at Thessaloniki, Greece.
+- *01/2024* - I'll join [Altair Engineering](https://altair.com) as a full-time Software Development Engineer at Thessaloniki, Greece.
   
 ### 2023
 - *12/2023* - Officially graduated from The University of Texas at Austin with a MS/PhD in Engineering Mechanics
