@@ -15,7 +15,7 @@ Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from 
 Updates
 -------
 ### 2024
-- *04/2024* - Admitted as a Distinguished Fellow at the International Society of Reverse Poynting Effect (IRPES).
+- *04/2024* - I've been appointed as a Distinguished Fellow of the International Society of the Reverse Poynting Effect (IRPES).
 - *01/2024* - I'll join [Altair Engineering](https://altair.com) as a full-time Software Development Engineer at Thessaloniki, Greece.
   
 ### 2023
