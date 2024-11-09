@@ -16,7 +16,6 @@ Updates
 -------
 ### 2024
 - *05/2024* - Final Dissertation text-file available online ([link](https://repositories.lib.utexas.edu/items/d524d681-fa1b-44ca-8b34-504b288c45a2))
-- *04/2024* - I've been appointed as a Distinguished Fellow of the International Society of the Reverse Poynting Effect (IRPES)
 - *01/2024* - I'll join [Altair Engineering](https://altair.com) as a full-time Software Development Engineer at Thessaloniki, Greece
   
 ### 2023
