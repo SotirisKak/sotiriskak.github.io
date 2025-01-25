@@ -1,5 +1,5 @@
 ---
-title: "FEBio plugin for the Holzapfel-Ogden material."
+title: "FEBio plugin for the Holzapfel-Ogden material"
 excerpt: "Material plugin of the Holzapfel-Ogden model for the FEBio suite.<br/><img src='/images/P1_Plugin.png'>"
 collection: portfolio
 ---
