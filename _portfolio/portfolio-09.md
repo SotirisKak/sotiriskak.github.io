@@ -1,5 +1,5 @@
 ---
-title: "Dielectric elastomer bending actuator."
+title: "Dielectric elastomer bending actuator"
 excerpt: "FE Model of a 3D dielectric elastomer bending actuator.<br/><img src='/images/P2_DielectricElastomer.png'>"
 collection: portfolio
 ---
