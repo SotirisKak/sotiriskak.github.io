@@ -15,6 +15,7 @@ Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from 
 Updates
 -------
 ### 2024
+- *12/2024* - [Seminar](http://mechan.ntua.gr/dialeksi-apo-ton-dr-sotiri-kakaletsi-engineering-mechanics-phd-ut-austin-tin-paraskevi-13-dekemvriou-2024.html) at the Mechanics Department, NTUA, Athens, Greece
 - *05/2024* - Final Dissertation text-file available online ([link](https://repositories.lib.utexas.edu/items/d524d681-fa1b-44ca-8b34-504b288c45a2))
 - *01/2024* - I'll join [Altair Engineering](https://altair.com) as a full-time Software Development Engineer at Thessaloniki, Greece
   
