@@ -17,7 +17,7 @@ Updates
 ### 2025
 - *07/2025* - Paper on isogeometric analysis of fiber networks published in JMPS [(paper link)](https://doi.org/10.1016/j.jmps.2025.106282) and [(here)](https://sites.utexas.edu/ruihuang/files/2025/07/JMPS2025.pdf).
 - *03/2025* - Altair Engineering acquired by [Siemens](https://press.siemens.com/global/en/pressrelease/siemens-acquires-altair-create-most-complete-ai-powered-portfolio-industrial-software)
-- *02/2025* - Promoted to Senior Software Development Engineer at [Altair's OptiStruct solver.](https://altair.com)
+- *02/2025* - Promoted to Senior Software Development Engineer at OptiStruct [Altair's](https://altair.com) structural analysis solver.
   
 ### 2024
 - *12/2024* - [Seminar](http://mechan.ntua.gr/dialeksi-apo-ton-dr-sotiri-kakaletsi-engineering-mechanics-phd-ut-austin-tin-paraskevi-13-dekemvriou-2024.html) at the Mechanics Department, NTUA, Athens, Greece
