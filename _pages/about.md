@@ -14,6 +14,11 @@ Prior to joining UT Austin, I received a Diploma in Mechanical Engineering from 
 
 Updates
 -------
+### 2025
+- *07/2025* - Paper on isogeometric analysis of fiber networks published in JMPS [paper link](https://doi.org/10.1016/j.jmps.2025.106282) and [here](https://sites.utexas.edu/ruihuang/files/2025/07/JMPS2025.pdf)
+- *03/2025* - Altair Engineering acquired by [Siemens](https://press.siemens.com/global/en/pressrelease/siemens-acquires-altair-create-most-complete-ai-powered-portfolio-industrial-software)
+- *02/2025* - Promoted to Senior Software Development Engineer at [Altair's OptiStruct solver.](https://altair.com)
+  
 ### 2024
 - *12/2024* - [Seminar](http://mechan.ntua.gr/dialeksi-apo-ton-dr-sotiri-kakaletsi-engineering-mechanics-phd-ut-austin-tin-paraskevi-13-dekemvriou-2024.html) at the Mechanics Department, NTUA, Athens, Greece
 - *05/2024* - Final Dissertation text-file available online ([link](https://repositories.lib.utexas.edu/items/d524d681-fa1b-44ca-8b34-504b288c45a2))
@@ -28,7 +33,7 @@ Updates
 
 - *09/2023* - Internship project with Ansys featured on the [developer's portal](https://developer.ansys.com/blog/biomedical-catheter-design-analysis).
   
-- *08/2023* - I'll return at [Ansys](https://www.ansys.com/) for a second rotation, as a Computational Mechanics intern, during Fall 2023.
+- *08/2023* - I'll return to [Ansys](https://www.ansys.com/) for a second rotation, as a Computational Mechanics intern, during Fall 2023.
  
 - *07/2023* - Our study on the mechanics of embedded, discrete fiber networks is now available as a [preprint](https://engrxiv.org/preprint/view/3112/5680).
   
