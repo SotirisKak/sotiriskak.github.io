@@ -18,7 +18,7 @@ Updates
 - *01/2026* - Following Altair's acquisition by Siemens, I'll be starting as a Software Engineer at the OptiStruct team of the new organization.
  
 ### 2025
-- *09/2025* - Will be teaching two undergrad classes at the ([Mechanics Department, NTUA])(https://semfe.ntua.gr/en/) : Computational Mechanics II and Mechanics III (Strength of Materials)
+- *09/2025* - Will be teaching two undergrad classes at the ([Mechanics Department, NTUA](https://semfe.ntua.gr/en/)): Computational Mechanics II and Mechanics III (Strength of Materials)
 - *07/2025* - Paper on isogeometric analysis of fiber networks published in JMPS [(paper link)](https://doi.org/10.1016/j.jmps.2025.106282) and [(here)](https://sites.utexas.edu/ruihuang/files/2025/07/JMPS2025.pdf).
 - *03/2025* - Altair Engineering acquired by [Siemens](https://press.siemens.com/global/en/pressrelease/siemens-acquires-altair-create-most-complete-ai-powered-portfolio-industrial-software)
 - *02/2025* - Promoted to Senior Software Development Engineer at OptiStruct [Altair's](https://altair.com) structural analysis solver.
